@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a entering 3rd year undergraduate student at University of Hull studying Computer Science, for my final year project I'm working on 3D Object Representation and Learning using KANs (Kolmogorov–Arnold Networks), under supervision by Dr Qingde Li, focusing on research and development of functional protoype
+I'm an entering 3rd year undergraduate student at the University of Hull, studying Computer Science. For my final year project, I'm working on 3D Object Representation and Learning using KANs (Kolmogorov–Arnold Networks), under the supervision of [Dr. Qingde Li](https://www.hull.ac.uk/staff-directory/Qingde-Li), focusing on the research and development of a functional prototype.
 
 **Research interest** 
 ------
