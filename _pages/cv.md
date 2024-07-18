@@ -41,7 +41,7 @@ University of Hull
 - User is able to search and select the research and the app is going to output a map of researchers.
 
  - **Technologies Used:** Python, Flask, ThreeJS
-Link to the project: GitHub
+Link to the project: [GitHub](https://github.com/DonKamilo00/ResearchMap)
  
 Skills
 ======
