@@ -13,4 +13,5 @@ ResearchMap is an open source visualisation tool used to visualise the research 
   
 ** See More **
 
-(https://github.com/DonKamilo00/ResearchMap)
+[![ResearchMap]({{ "/images/GitHub_Logo.png" | relative_url }})](https://github.com/DonKamilo00/ResearchMap)
+
