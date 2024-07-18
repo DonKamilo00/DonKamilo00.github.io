@@ -16,7 +16,7 @@ Education
 Projects
 ======
 ### KANs Network Development and Analysis
-
+University of Hull
 **Dates:** Summer 2024 – Present  
 
 - **Responsibilities:**
@@ -33,8 +33,16 @@ Projects
 - **Current Progress:**
   - literature review and drafting/design.
 
+ ### ResearchMap
+ Personal Project 
+ **Dates:** Summer 2024 – Present  
+
+- ResearchMap is a web visualisation tool to display the research collaboration  between the researchers
+- User is able to search and select the research and the app is going to output a map of researchers.
+
+ - **Technologies Used:** Python, Flask, ThreeJS
+Link to the project: GitHub
  
-    
 Skills
 ======
 * Programming languages: C++, Python, C#
