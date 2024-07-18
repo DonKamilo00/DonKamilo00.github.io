@@ -1,6 +1,6 @@
 ---
 title: "ResearchMap"
-excerpt: "ResearchMap is a visualisation tool for collaborations between researchers<br/><img src='/images/500x300.png'>"
+excerpt: "ResearchMap is a visualisation tool for collaborations between researchers<br/><img src='/images'>"
 collection: portfolio
 ---
 
