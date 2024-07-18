@@ -15,8 +15,9 @@ Education
 
 Projects
 ======
+
 ### KANs Network Development and Analysis
-University of Hull
+University of Hull  
 **Dates:** Summer 2024 – Present  
 
 - **Responsibilities:**
@@ -31,17 +32,18 @@ University of Hull
 - **Technologies Used:** Python
 
 - **Current Progress:**
-  - literature review and drafting/design.
+  - Literature review and drafting/design.
 
- ### ResearchMap
- Personal Project 
- **Dates:** Summer 2024 – Present  
+### ResearchMap
+Personal Project  
+**Dates:** Summer 2024 – Present  
 
-- ResearchMap is a web visualisation tool to display the research collaboration  between the researchers
+- ResearchMap is a web visualisation tool to display the research collaboration between the researchers.
 - User is able to search and select the research and the app is going to output a map of researchers.
 
- - **Technologies Used:** Python, Flask, ThreeJS
- - **Link to the project:** [GitHub](https://github.com/DonKamilo00/ResearchMap)
+- **Technologies Used:** Python, Flask, ThreeJS
+- **Link to the project:** [GitHub](https://github.com/DonKamilo00/ResearchMap)
+
  
 Skills
 ======
@@ -59,7 +61,7 @@ Certifications and courses
 Extracullicular activities
 ======
 **Volunteer Feedback Tester**  
-*Myndmap*  
+[Myndmap](https://myndmap.uk/) 
 2024
 
 - **Objective:** Contributed to the testing and feedback phase of an AI-powered mobile app designed to assist individuals with ADHD.
