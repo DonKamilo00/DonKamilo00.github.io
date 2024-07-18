@@ -4,4 +4,10 @@ excerpt: "ResearchMap is a visualisation tool for collaborations between researc
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ResearchMap is an open source visualisation tool used to visualise the research collaborations between the rsearchers, project is currently in early stages of development and any contributions are welcome, some of the planned features are as follows:
+
+-Searching and selecting the researcher using Api (Done)
+-Based on selecter researcher display a networking visualisation (Work in progress)
+-Website frontend (To be done)
+- and more....
+  
