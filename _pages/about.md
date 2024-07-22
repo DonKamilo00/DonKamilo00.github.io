@@ -12,7 +12,7 @@ I'm an entering 3rd year undergraduate student at the University of Hull, studyi
 
 **Research interest** 
 ------
-My research interest lies at intersection of Computer Vision and graphics, I'm especiially interested in but not limited to:
+My research interest lies at intersection of Computer Vision and graphics, I'm especially interested in but not limited to:
 
 - Machine learning
   - Neural network architectures/learning methods for 3D object understanding
