@@ -27,16 +27,17 @@ July 2024 xxxxxxxxxxxxxx
 
 **Ongoing Projects**
 ------
-KANs Network Development and Analysis (Honours Stage Project)
-Exploring Kolmogorov–Arnold Networks (KANs) for 3D object reconstruction and topological feature modeling.
-Conducting experiments with 3D datasets using Python and PyTorch to analyze performance and accuracy.
-Designing frameworks to enhance feature extraction with learnable activation functions.
-Benchmarking KANs against traditional machine learning models for scalability and precision.
-ResearchMap
-Developing an open-source visualization tool to map research collaborations effectively.
-Implementing APIs with Python and Flask to retrieve and display researcher data dynamically.
-Creating interactive network visualizations using modern web technologies for data representation.
-Collaborating on frontend and backend development to ensure seamless user experiences.
+### KANs Network Development and Analysis (Honours Stage Project)
+- Exploring Kolmogorov–Arnold Networks (KANs) for 3D object reconstruction and topological feature modeling.
+- Conducting experiments with 3D datasets using Python and PyTorch to analyze performance and accuracy.
+- Designing frameworks to enhance feature extraction with learnable activation functions.
+- Benchmarking KANs against traditional machine learning models for scalability and precision.
+
+### ResearchMap
+- Developing an open-source visualization tool to map research collaborations effectively.
+- Implementing APIs with Python and Flask to retrieve and display researcher data dynamically.
+- Creating interactive network visualizations using modern web technologies for data representation.
+- Collaborating on frontend and backend development to ensure seamless user experiences.
 
 **Open Source**
 ------
