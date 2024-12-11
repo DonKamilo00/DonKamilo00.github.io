@@ -27,13 +27,16 @@ July 2024 xxxxxxxxxxxxxx
 
 **Ongoing Projects**
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+KANs Network Development and Analysis (Honours Stage Project)
+Exploring Kolmogorov–Arnold Networks (KANs) for 3D object reconstruction and topological feature modeling.
+Conducting experiments with 3D datasets using Python and PyTorch to analyze performance and accuracy.
+Designing frameworks to enhance feature extraction with learnable activation functions.
+Benchmarking KANs against traditional machine learning models for scalability and precision.
+ResearchMap
+Developing an open-source visualization tool to map research collaborations effectively.
+Implementing APIs with Python and Flask to retrieve and display researcher data dynamically.
+Creating interactive network visualizations using modern web technologies for data representation.
+Collaborating on frontend and backend development to ensure seamless user experiences.
 
 **Open Source**
 ------
